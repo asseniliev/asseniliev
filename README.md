@@ -4,10 +4,10 @@
 
 In 2022 I initiated a professional conversion program with objective to become a professional deveoloper. As milestones of this initiative I applied at [Telerik Academy C# program](https://www.telerikacademy.com/alpha/csharp) which lasted 6 months, followed immediately by [La Capsule Web Development Bootcamp](https://www.lacapsule.academy/formation-developpeur-web/full-time) that lasted 2 and a half month.
 
-The skills obtained in the field as well as the cited portfolio are exclusively result of the projects (small and big) realized during this training that lasted almost 9 month. 
+The skills obtained in the field as well as the cited portfolio are exclusively result of the projects (small and bigger) realized during this training that lasted almost 9 month. 
 
 A little history of mine... <br />
-I developped my first programs in Basic for Apple II 8 bit architecture still in the 80s. Since then, I did a few university projects for sceence in Fortan and Turbo Pascal in the beginning of the 90s. My love to programing dates back still at those times far, far away...
+I developped my first programs in Basic for Apple II 8 bit architecture still in the 80s. Since then, I did a few university projects for science in Fortan and Turbo Pascal in the beginning of the 90s. My love to programing dates back still at those times far, far away...
 
 As professional occupancy I did programming in ABAP for SAP but it was more a secondary activity along with my consultancy for SAP business deployment.<br />
 
