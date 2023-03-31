@@ -2,15 +2,18 @@
 
 # <img src="giphy.gif" width="15%"> Hello! I'm Asen.
 
-I developped my first programs in Basic for Apple II 8 bit architecture still in the 80s. Since then, I did a few university projects for sceence in Fortan and Turbo Pascal in the beginning of the 90s.
+In 2022 I initiated a professional conversion program with objective to become a professional deveoloper. As milestones of this initiative I applied at [Telerik Academy C# program](https://www.telerikacademy.com/alpha/csharp) which lasted 6 months, followed immediately by [La Capsule Web Development Bootcamp](https://www.lacapsule.academy/formation-developpeur-web/full-time) that lasted 2 and a half month.
+
+The skills obtained in the field as well as the cited portfolio are exclusively result of the projects (small and big) realized during this training that lasted almost 9 month. 
+
+A little history of mine... <br />
+I developped my first programs in Basic for Apple II 8 bit architecture still in the 80s. Since then, I did a few university projects for sceence in Fortan and Turbo Pascal in the beginning of the 90s. My love to programing dates back still at those times far, far away...
 
 As professional occupancy I did programming in ABAP for SAP but it was more a secondary activity along with my consultancy for SAP business deployment.<br />
 
 More regular programming exercises I started in year 2012 following C# programming courses in Udemy and open source tutorials in Youtube. In 2016 I discovered Unity game engine (which also uses C# for scripts programming) which helped afirm my OOP and DSA knowledge.
 
-In 2022 I initiated professional conversion program with objective to become a professional deveoloper. As milestones of this initiative I applied at [Telerik Academy C# program](https://www.telerikacademy.com/alpha/csharp) which lasted 6 months, followed immediately by [La Capsule Web Development Bootcamp](https://www.lacapsule.academy/formation-developpeur-web/full-time) that lasted 2 and a half month.
 
-The skills obtained in the field as well as the cited portfolio are exclusively result of the projects (small and big) realized during this training that lasted almost 9 month. 
 
 ##Skills <br />
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
