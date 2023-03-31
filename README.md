@@ -6,14 +6,16 @@ In 2022 I initiated a professional conversion program with objective to become a
 
 The skills obtained in the field as well as the cited portfolio are exclusively result of the projects (small and bigger) realized during this training that lasted almost 9 month. 
 
+Today, I master a moderate level of C# OOP and DSA principles and have debutant level of C# Web development skills with ASP.NET and Entity Framework, following MVC pattern.
+
+Concerning Javascript and related MERN stack, I am at junior level, and currently using my time to profound knowledge to bigger extend possible.
+
 A little history of mine... <br />
 I developped my first programs in Basic for Apple II 8 bit architecture still in the 80s. Since then, I did a few university projects for science in Fortan and Turbo Pascal in the beginning of the 90s. My love to programing dates back still from those times far, far away...
 
 As professional occupancy, I did programming in ABAP for SAP since 1999 for almost 15 years. However, this was more a secondary activity in parallel to my consultancy for SAP business deployment.<br />
 
 More regular programming exercises I started in year 2012 following C# programming courses in Udemy and open source tutorials in Youtube. In 2016 I discovered Unity game engine (which also uses C# for scripts programming) which helped afirm my OOP and DSA knowledge.
-
-
 
 ##Skills <br />
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
