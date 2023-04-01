@@ -1,13 +1,15 @@
 # <img src="giphy.gif" width="15%"> Hello! I'm Asen.
 
 ## About my competencies
-In June 2022 I started my personal project for career redirection with objective to become a professional deveoloper. As milestones of this initiative I completed the [Telerik Academy C# training program](https://www.telerikacademy.com/alpha/csharp) which lasted 6 months. It was immediately followed by [La Capsule Web Development Bootcamp](https://www.lacapsule.academy/formation-developpeur-web/full-time) training that continued for 2 and a half month and finished in mid March 2023.
+In June 2022 I started my personal project for career redirection with objective to become a professional deveoloper. As milestones of this initiative I completed the [Telerik Academy C# training program](https://www.telerikacademy.com/alpha/csharp) which lasted 6 months. It was immediately followed by [La Capsule Web Development Bootcamp](https://www.lacapsule.academy/formation-developpeur-web/full-time) training that continued for 2 and a half months and finished in mid March 2023.
 
-My portfolio shared below consists mostly of projects (small and bigger) realized during these trainings. As such, hence, they are generally with academic purposes.
+My portfolio shared below consists mostly of projects (small and bigger) realized during these trainings. As such, they are generally with academic purposes.
 
-Today, I master a moderate level of C# OOP and DSA principles and have debutant level of C# Web development skills with ASP.NET and Entity Framework, following MVC pattern.
+Today, I have an inetrmediate level of C# OOP and DSA and can handle the basis of C# Web development following MVC pattern with ASP.NET and Entity Framework.
 
-In Javascript and related MERN stack, I am at junior level, and currently using my time to profound my knowledge to a bigger extend.
+In Javascript and related MERN stack, I have junior level, able to handle frontend and backend developments with React, Next.JS and Express.
+
+I am currently making further efforts to profound my knowledge in these domains.
 
 ## A little hostory of mine...
 I developped my first programs in Basic for Apple II 8 bit architecture still in the 80s. Since then, I did a few university projects for science in Fortan and Turbo Pascal in the beginning of the 90s. My love to programing dates back still from those times far, far away...
