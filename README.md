@@ -1,5 +1,3 @@
-# Asen ILIEV
-
 # <img src="giphy.gif" width="15%"> Hello! I'm Asen.
 
 ## About my competencies
