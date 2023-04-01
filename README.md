@@ -1,7 +1,7 @@
 # <img src="giphy.gif" width="15%"> Hello! I'm Asen.
 
 ## About my competencies
-In June 2022 I initiated a professional conversion program with objective to become a professional deveoloper. As milestones of this initiative I applied at [Telerik Academy C# program](https://www.telerikacademy.com/alpha/csharp) which lasted 6 months. It was immediately followed by [La Capsule Web Development Bootcamp](https://www.lacapsule.academy/formation-developpeur-web/full-time) that continued for 2 and a half month and finished in mid March 2023.
+In June 2022 I started my personal project for career redirection with objective to become a professional deveoloper. As milestones of this initiative I applied at [Telerik Academy C# program](https://www.telerikacademy.com/alpha/csharp) which lasted 6 months. It was immediately followed by [La Capsule Web Development Bootcamp](https://www.lacapsule.academy/formation-developpeur-web/full-time) that continued for 2 and a half month and finished in mid March 2023.
 
 My portfolio shared below consists mostly of projects (small and bigger) realized during these trainings. As such, hence, they are generally with academic purposes.
 
