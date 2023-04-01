@@ -50,15 +50,13 @@ More regular exercises I started in year 2012 when I began following C# programm
 [Link to GitHub](https://github.com/asseniliev/My-Mails)<br />
 <br />
 
-- Pokedex-DOM : a one-page html developped as part of the 
-fullstack web development bootcamp in La Capsule (Lyon, 2023). 
-Fetches pokemons data from a public API and visualizes pokemons cards on the screen. Pressing a button fetches a subsequent batch of 15 pokemons.
-<br />
+- Pokedex-DOM : a one-page html developped as part of the fullstack web development bootcamp in La Capsule (Lyon, 2023). 
+Fetches pokemons data from a public API and visualizes pokemons cards on the screen. Pressing a button fetches a subsequent batch of 15 pokemons. <br />
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)<br />
-[Link to Vercel deployment](https://pokedex-dom.vercel.app/)<br />
-[Link to GitHub](https://github.com/asseniliev/Pokedex-DOM)<br />
+[Link to Vercel deployment](https://my-mails-psi.vercel.app/)<br />
+[Link to GitHub](https://github.com/asseniliev/My-Mails)<br />
 <br />
 
 - Pokedex-React : a remake of the Pokedex-DOM page using React library and NEXT.JS framework for the frontend and Express framework for the backend.<br />
