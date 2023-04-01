@@ -2,20 +2,21 @@
 
 # <img src="giphy.gif" width="15%"> Hello! I'm Asen.
 
-In 2022 I initiated a professional conversion program with objective to become a professional deveoloper. As milestones of this initiative I applied at [Telerik Academy C# program](https://www.telerikacademy.com/alpha/csharp) which lasted 6 months, followed immediately by [La Capsule Web Development Bootcamp](https://www.lacapsule.academy/formation-developpeur-web/full-time) that lasted 2 and a half month.
+## About my competencies
+In June 2022 I initiated a professional conversion program with objective to become a professional deveoloper. As milestones of this initiative I applied at [Telerik Academy C# program](https://www.telerikacademy.com/alpha/csharp) which lasted 6 months. It was immediately followed by [La Capsule Web Development Bootcamp](https://www.lacapsule.academy/formation-developpeur-web/full-time) that continued for 2 and a half month and finished in mid March 2023.
 
-The skills obtained in the field as well as the cited portfolio are exclusively result of the projects (small and bigger) realized during this training that lasted almost 9 month. 
+My portfolio shared below consists mostly of projects (small and bigger) realized during these trainings. As such, hence, they are generally with academic purposes.
 
 Today, I master a moderate level of C# OOP and DSA principles and have debutant level of C# Web development skills with ASP.NET and Entity Framework, following MVC pattern.
 
-Concerning Javascript and related MERN stack, I am at junior level, and currently using my time to profound knowledge to bigger extend possible.
+In Javascript and related MERN stack, I am at junior level, and currently using my time to profound my knowledge to a bigger extend.
 
-A little history of mine... <br />
+## A little hostory of mine...
 I developped my first programs in Basic for Apple II 8 bit architecture still in the 80s. Since then, I did a few university projects for science in Fortan and Turbo Pascal in the beginning of the 90s. My love to programing dates back still from those times far, far away...
 
-As professional occupancy, I did programming in ABAP for SAP since 1999 for almost 15 years. However, this was more a secondary activity in parallel to my consultancy for SAP business deployment.<br />
+As professional occupancy, since 1999 I was doing SAP ABAP programmin for almost 15 years. However, this was more a secondary activity in parallel to my consultancy for SAP business deployment.<br />
 
-More regular programming exercises I started in year 2012 following C# programming courses in Udemy and open source tutorials in Youtube. In 2016 I discovered Unity game engine (which also uses C# for scripts programming) which helped afirm my OOP and DSA knowledge.
+More regular exercises I started in year 2012 when I began following C# programming courses in Udemy and open source tutorials in Youtube. In 2016 I discovered Unity game engine (which also uses C# for scripts programming) which helped afirm my OOP and DSA knowledge.
 
 ##Skills <br />
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
