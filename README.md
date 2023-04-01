@@ -12,18 +12,17 @@ In Javascript and related MERN stack, I am at junior level, and currently using 
 ## A little hostory of mine...
 I developped my first programs in Basic for Apple II 8 bit architecture still in the 80s. Since then, I did a few university projects for science in Fortan and Turbo Pascal in the beginning of the 90s. My love to programing dates back still from those times far, far away...
 
-As professional occupancy, since 1999 I was doing SAP ABAP programmin for almost 15 years. However, this was more a secondary activity in parallel to my consultancy for SAP business deployment.<br />
+As professional occupancy, since 1999 I was doing SAP ABAP programmin for almost 15 years. However, this was more a secondary activity in parallel to my consultancy for SAP business deployment.
 
-More regular exercises I started in year 2012 when I began following C# programming courses in Udemy and open source tutorials in Youtube. In 2016 I discovered Unity game engine (which also uses C# for scripts programming) which helped afirm my OOP and DSA knowledge.
+More regular exercises I started in year 2012 when I began following C# programming courses in Udemy and open source tutorials in Youtube. In 2016 I discovered Unity game engine (which also uses C# for scripts programming) that helped afirm my OOP and DSA knowledge.
 
-##Skills <br />
+<br />
+
+## Skills diagram<br />
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![VS Code](https://img.shields.io/badge/visual_studio_code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2E2NzFjMDA5NWE2MWRkYmIyZGVhMDNhMGFjN2JlYjJjYzc1MmU0NyZjdD1z/8yhYd06iIRfjkIOYvg/giphy.gif" width="2%">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -39,16 +38,16 @@ More regular exercises I started in year 2012 when I began following C# programm
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+<br />
 
-
-## What I am learning <img style="vertical-align: middle" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTIzMzMzZjRiYTQ5MWIyY2I2MjQxMmFkNGE2MmUxNDg1Y2E0ZTVjNyZjdD1z/l4FGIO2vCfJkakBtC/giphy.gif" width="30px">
-
+## What I am currently learning 
 
 ![ReactJS](https://img.shields.io/badge/react-%2300b0c4.svg?style=for-the-badge&logo=react&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
+<br />
 
 ## List of my works (still to be completed)
 
