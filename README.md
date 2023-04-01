@@ -17,7 +17,6 @@ I developped my first programs in Basic for Apple II 8 bit architecture still in
 As professional occupancy, since 1999 I was doing SAP ABAP programmin for almost 15 years. However, this was more a secondary activity in parallel to my consultancy for SAP business deployment.
 
 More regular exercises I started in year 2012 when I began following C# programming courses in Udemy and open source tutorials in Youtube. In 2016 I discovered Unity game engine (which also uses C# for scripts programming) that helped afirm my OOP and DSA knowledge.
-
 <br />
 
 ## Skills diagram<br />
@@ -39,7 +38,6 @@ More regular exercises I started in year 2012 when I began following C# programm
 ![Mongoose](https://img.shields.io/badge/mongoose-810000?style=for-the-badge&logo=mongoose&logoColor=blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
 <br />
 
 ## What I am currently learning 
@@ -48,7 +46,6 @@ More regular exercises I started in year 2012 when I began following C# programm
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
 <br />
 
 ## List of my works (still to be completed)
