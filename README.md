@@ -48,7 +48,6 @@ More regular exercises I started in year 2012 when I began following C# programm
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)<br />
 [Link to Vercel deployment](https://my-mails-psi.vercel.app/)<br />
 [Link to GitHub](https://github.com/asseniliev/My-Mails)<br />
-<br />
 
 - Pokedex-DOM : a one-page html developped as part of the fullstack web development bootcamp in La Capsule (Lyon, 2023). 
 Fetches pokemons data from a public API and visualizes pokemons cards on the screen. Pressing a button fetches a subsequent batch of 15 pokemons. <br />
@@ -57,7 +56,6 @@ Fetches pokemons data from a public API and visualizes pokemons cards on the scr
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)<br />
 [Link to Vercel deployment](https://my-mails-psi.vercel.app/)<br />
 [Link to GitHub](https://github.com/asseniliev/My-Mails)<br />
-<br />
 
 - Pokedex-React : a remake of the Pokedex-DOM page using React library and NEXT.JS framework for the frontend and Express framework for the backend.<br />
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
