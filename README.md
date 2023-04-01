@@ -51,10 +51,46 @@ More regular programming exercises I started in year 2012 following C# programmi
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 
+## List of my works (still to be completed)
+
+- My mail : a simple one-page application developped in duration of 3 days as part of the fullstack web development bootcamp in La Capsule (Lyon, 2023). <br />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)<br />
+[Link to Vercel deployment](https://my-mails-psi.vercel.app/)<br />
+[Link to GitHub](https://github.com/asseniliev/My-Mails)<br />
+<br />
+
+- Pokedex-DOM : a simple one-page html developped as part of the 
+fullstack web development bootcamp in La Capsule (Lyon, 2023). <br />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)<br />
+[Link to Vercel deployment](https://pokedex-dom.vercel.app/)<br />
+[Link to GitHub](https://github.com/asseniliev/Pokedex-DOM)<br />
+<br />
+
+- Pokedex-React : a remake of the Pokedex-DOM page using React library and NEXT.JS framework for the frontend and Express framework for the backend.<br />
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![ReactJS](https://img.shields.io/badge/react-%2300b0c4.svg?style=for-the-badge&logo=react&logoColor=white)<br />
+[Link to Vercel deployment](https://pokedex-frontend-ten.vercel.app/)<br />
+[Link to GitHub](https://github.com/asseniliev/Pokedex-frontend)
+
+- Blackboard : a prototype of a backend communicating with a Mongo DB. Does not support a GUI, project is run fully in the terminal.<br />
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Mongoose](https://img.shields.io/badge/mongoose-810000?style=for-the-badge&logo=mongoose&logoColor=blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)<br />
+[Link to GitHub](https://github.com/asseniliev/Blackboard)
+
+- Weatherapp : a simple one-page application developped in duration of 4 days as part of the fullstack web development bootcamp in La Capsule (Lyon, 2023). <br />
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![ReactJS](https://img.shields.io/badge/react-%2300b0c4.svg?style=for-the-badge&logo=react&logoColor=white)<br />
+[Link to Vercel deployment](https://weatherapp-frontend-iota.vercel.app/)<br />
+[Link to GitHub](https://github.com/asseniliev/Weatherapp-frontend)
 
 <!--
-**Mathias-Hadji/Mathias-Hadji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
