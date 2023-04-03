@@ -1,7 +1,8 @@
 # <img src="giphy.gif" width="15%"> Hello! I'm Asen.
 
 ## About my competencies
-In June 2022 I started my personal project for career redirection with objective to become a professional deveoloper. As milestones of this initiative I completed the [Telerik Academy C# training program](https://www.telerikacademy.com/alpha/csharp) which lasted 6 months. It was immediately followed by [La Capsule Web Development Bootcamp](https://www.lacapsule.academy/formation-developpeur-web/full-time) training that continued for 2 and a half months and finished in mid March 2023.
+In June 2022 I started my personal project for career redirection with objective to become a professional deveoloper. As first milestone of this initiative I completed the [Telerik Academy C# training program](https://www.telerikacademy.com/alpha/csharp) which lasted 6 months. There I built on the C# competences I previously had with more profound understanding of OOP and DSA and obtained new skills in Web programming.
+As a second milestone, I immediately followed [La Capsule Web Development Bootcamp](https://www.lacapsule.academy/formation-developpeur-web/full-time) training that continued for 2 and a half months and finished in mid March 2023. There I obtained basis knowledge on the MERN stack, which was a completely new universe to me.
 
 Today, I have an inetrmediate level of C# OOP and DSA and can handle the basis of C# Web development following MVC pattern with ASP.NET and Entity Framework.
 
