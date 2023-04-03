@@ -44,6 +44,7 @@ More regular exercises I started in year 2012 when I began following C# programm
 
 - <b>MyMoviz</b> : a one-page application developped in duration of 5 days as part of the fullstack web development bootcamp in La Capsule (Lyon, 2023). <br />It displays list of the last movie titles,  allows to add films to list of favorites and evaluate films.<br />
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![ReactJS](https://img.shields.io/badge/react-%2300b0c4.svg?style=for-the-badge&logo=react&logoColor=white)<br />
 [Link to Vercel deployment](https://my-moviz-frontend-seven.vercel.app/)<br />
@@ -51,6 +52,7 @@ More regular exercises I started in year 2012 when I began following C# programm
 
 - <b>Morning News</b> : a React application developped in duration of 5 days as part of the fullstack web development bootcamp in La Capsule (Lyon, 2023). <br /> It displays a top article and 5 other articls fetched from a public api. User can login and then bookmark articles.<br />
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![ReactJS](https://img.shields.io/badge/react-%2300b0c4.svg?style=for-the-badge&logo=react&logoColor=white)<br />
 [Link to Vercel deployment](https://morning-news-frontend-ten.vercel.app/)<br />
