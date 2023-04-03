@@ -13,7 +13,7 @@ I am currently making further efforts to profound my knowledge in these domains.
 My portfolio shared below consists mostly of projects (small and bigger) realized during these trainings. As such, they are generally with academic purposes.
 
 ## A little history of mine...
-I developped my first programs in Basic for Apple II 8 bit architecture as a college student still in the late 80s. Later I did a few university projects for science in Fortan and Turbo Pascal in the 90s. My love to programing dates back still from those times far away. It persisted through my career and I was always coming back to it in my professional work or in my free time. Now I wanted to switch to it permanently.
+As a college student, I developped my first programs in Basic for Apple II 8 bit architecture still in the late 80s. Later I did a few university projects for science in Fortan and Turbo Pascal in the 90s. My love to programing dates back still from those times far away. It persisted through my career and I was always coming back to it in my professional work or in my free time. Now I wanted to switch to it permanently.
 
 As professional occupancy, since 1999 I was doing SAP ABAP programmin for almost 15 years. However, this was more a secondary activity in parallel to my consultancy for SAP business deployment.
 
