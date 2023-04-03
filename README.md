@@ -40,35 +40,21 @@ More regular exercises I started in year 2012 when I began following C# programm
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 <br />
 
-## List of my works (still to be completed)
+## List of my works (not complete)
 
-- <b>My mail</b> : a one-page application developped in duration of 3 days as part of the fullstack web development bootcamp in La Capsule (Lyon, 2023). <br />
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)<br />
-[Link to Vercel deployment](https://my-mails-psi.vercel.app/)<br />
-[Link to GitHub](https://github.com/asseniliev/My-Mails)<br />
-
-- <b>Pokedex-DOM</b> : a one-page html developped as part of the fullstack web development bootcamp in La Capsule (Lyon, 2023). 
-Fetches pokemons data from a public API and visualizes pokemons cards on the screen. Pressing a button fetches a subsequent batch of 15 pokemons. <br />
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)<br />
-[Link to Vercel deployment](https://my-mails-psi.vercel.app/)<br />
-[Link to GitHub](https://github.com/asseniliev/My-Mails)<br />
-
-- <b>Pokedex-React</b> : a remake of the Pokedex-DOM page using React library and NEXT.JS framework for the frontend and Express framework for the backend.<br />
+- <b>MyMoviz</b> : a one-page application developped in duration of 5 days as part of the fullstack web development bootcamp in La Capsule (Lyon, 2023). <br />It displays list of the last movie titles,  allows to add films to list of favorites and evaluate films.<br />
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![ReactJS](https://img.shields.io/badge/react-%2300b0c4.svg?style=for-the-badge&logo=react&logoColor=white)<br />
-[Link to Vercel deployment](https://pokedex-frontend-ten.vercel.app/)<br />
-[Link to GitHub](https://github.com/asseniliev/Pokedex-frontend)
+[Link to Vercel deployment](https://my-moviz-frontend-seven.vercel.app/)<br />
+[Link to GitHub](https://github.com/asseniliev/MyMoviz-frontend)
 
-- <b>Blackboard</b> : a prototype of a backend communicating with a Mongo DB. Contains a list of functions that have been implemented in a way to perform the basic CRUD operations for the corresponding db collections.
-Does not support a GUI, project is run fully in the terminal.<br />
+- <b>Morning News</b> : a React application developped in duration of 5 days as part of the fullstack web development bootcamp in La Capsule (Lyon, 2023). <br /> It displays a top article and 5 other articls fetched from a public api. User can login and then bookmark articles.<br />
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Mongoose](https://img.shields.io/badge/mongoose-810000?style=for-the-badge&logo=mongoose&logoColor=blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)<br />
-[Link to GitHub](https://github.com/asseniliev/Blackboard)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![ReactJS](https://img.shields.io/badge/react-%2300b0c4.svg?style=for-the-badge&logo=react&logoColor=white)<br />
+[Link to Vercel deployment](https://morning-news-frontend-ten.vercel.app/)<br />
+[Link to GitHub](https://github.com/asseniliev/MorningNews-frontend)
 
 - <b>Weatherapp</b> : a one-page application developped in duration of 4 days as part of the fullstack web development bootcamp in La Capsule (Lyon, 2023). <br />
 It fetches data from a weather api for the cities already present in the database. Allows adding new cities and removing existing cities.<br />
@@ -79,12 +65,33 @@ It fetches data from a weather api for the cities already present in the databas
 [Link to Vercel deployment](https://weatherapp-frontend-iota.vercel.app/)<br />
 [Link to GitHub](https://github.com/asseniliev/Weatherapp-frontend)
 
-- <b>MyMoviz</b> : a one-page application developped in duration of 5 days as part of the fullstack web development bootcamp in La Capsule (Lyon, 2023). <br />It displays list of the last movie titles,  allows to add films to list of favorites and evaluate films.<br />
+- <b>Blackboard</b> : a prototype of a backend communicating with a Mongo DB. Contains a list of functions that have been implemented in a way to perform the basic CRUD operations for the corresponding db collections.
+Does not support a GUI, project is run fully in the terminal.<br />
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Mongoose](https://img.shields.io/badge/mongoose-810000?style=for-the-badge&logo=mongoose&logoColor=blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)<br />
+[Link to GitHub](https://github.com/asseniliev/Blackboard/blob/main/app.js)
+
+- <b>Pokedex-DOM</b> : a one-page html developped as part of the fullstack web development bootcamp in La Capsule (Lyon, 2023). 
+Fetches pokemons data from a public API and visualizes pokemons cards on the screen. Pressing a button fetches a subsequent batch of 15 pokemons. <br />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)<br />
+[Link to Vercel deployment](https://pokedex-dom.vercel.app/)<br />
+[Link to GitHub](https://github.com/asseniliev/Pokedex-DOM)<br />
+
+- <b>Pokedex-React</b> : a remake of the Pokedex-DOM page using React library and NEXT.JS framework for the frontend and Express framework for the backend.<br />
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![ReactJS](https://img.shields.io/badge/react-%2300b0c4.svg?style=for-the-badge&logo=react&logoColor=white)<br />
-[Link to Vercel deployment](https://my-moviz-frontend-seven.vercel.app/)<br />
-[Link to GitHub](https://github.com/asseniliev/MyMoviz-frontend)
+[Link to Vercel deployment](https://pokedex-frontend-ten.vercel.app/)<br />
+[Link to GitHub](https://github.com/asseniliev/Pokedex-frontend)
+
+- <b>My mail</b> : a one-page application developped in duration of 3 days as part of the fullstack web development bootcamp in La Capsule (Lyon, 2023). <br />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)<br />
+[Link to Vercel deployment](https://my-mails-psi.vercel.app/)<br />
+[Link to GitHub](https://github.com/asseniliev/My-Mails)<br />
 
 <!--
 Here are some ideas to get you started:
