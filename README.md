@@ -68,6 +68,13 @@ It fetches data from a weather api for the cities already present in the databas
 [Link to Vercel deployment](https://weatherapp-frontend-iota.vercel.app/)<br />
 [Link to GitHub](https://github.com/asseniliev/Weatherapp-frontend)
 
+- <b>Memory Game</b> : a React application developped as part of the fullstack web development bootcamp in La Capsule (Lyon, 2023).
+It is a remake of a memory game where the player opens pairs of tiles. If the image of the tiles match, the tiles remain open, if not - the two tiles close. The game continues until all matching tiles open and then restarts.<br />
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![ReactJS](https://img.shields.io/badge/react-%2300b0c4.svg?style=for-the-badge&logo=react&logoColor=white)<br />
+[Link to Vercel deployment](https://memory-game-one-psi.vercel.app/)<br />
+[Link to GitHub](https://github.com/asseniliev/MemoryGame)
+
 - <b>Blackboard</b> : a prototype of a backend communicating with a Mongo DB. Contains a list of functions that have been implemented in a way to perform the basic CRUD operations for the corresponding db collections.
 Does not support a GUI, project is run fully in the terminal.<br />
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
