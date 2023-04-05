@@ -42,6 +42,16 @@ More regular exercises I started in year 2012 when I began following C# programm
 <br />
 
 ## List of my works (not complete)
+- <b>Game Point</b> : a web application developped in ASP.NET Core MVC. It is designated to manage basic gamers (both individuals and teams) profiles, organize gaming competitions and events and maintain performance statistics.<br />
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)<br />
+[Youtube demo video](https://www.youtube.com/watch?v=2IZ7qJQUDf0&t=6s)<br />
+[Link to GitHub](https://github.com/asseniliev/GamePoint)
+
+- <b>La Ferme de Meyrenal</b> : a mobile app developped by a team of two people as a final project of the La Capsule bootcamp study in March 2023. It is a personalized market place app created to present and distribute the products produced by a bio farme in Ardeche region (France).<br />
+[Youtube demo video](https://www.youtube.com/watch?v=-RgTi-GRnpg)<br />
+[Link to Expo deployment](https://expo.dev/@asseniliev/my-app)<br />
+[Link to GitHub](https://github.com/asseniliev/Farme-De-Meyrenal-Frontend)
 
 - <b>MyMoviz</b> : a one-page application developped in duration of 5 days as part of the fullstack web development bootcamp in La Capsule (Lyon, 2023). <br />It displays list of the last movie titles,  allows to add films to list of favorites and evaluate films.<br />
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
