@@ -49,7 +49,6 @@ More regular exercises I started in year 2012 when I began following C# programm
 [Link to GitHub](https://github.com/asseniliev/GamePoint)
 
 - <b>La Ferme de Meyrenal</b> : a mobile app developped by a team of two people as a final project of the La Capsule bootcamp study in March 2023. It is a personalized market place app created to present and distribute the products produced by a bio farme in Ardeche region (France).<br />
-[Youtube demo video](https://www.youtube.com/watch?v=-RgTi-GRnpg)<br />
 [Link to Expo deployment](https://expo.dev/@asseniliev/my-app)<br />
 [Link to GitHub](https://github.com/asseniliev/Farme-De-Meyrenal-Frontend)
 
