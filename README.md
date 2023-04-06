@@ -41,7 +41,7 @@ More regular exercises I started in year 2012 when I began following C# programm
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 <br />
 
-## List of my works (not complete)
+## List of my works (in process of completion)
 - <b>Game Point</b> : a web application developped in ASP.NET Core MVC. It is designated to manage basic gamers (both individuals and teams) profiles, organize gaming competitions and events and maintain performance statistics.<br />
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)<br />
@@ -111,6 +111,7 @@ Fetches pokemons data from a public API and visualizes pokemons cards on the scr
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)<br />
 [Link to Vercel deployment](https://my-mails-psi.vercel.app/)<br />
 [Link to GitHub](https://github.com/asseniliev/My-Mails)<br />
+
 
 <!--
 Here are some ideas to get you started:
