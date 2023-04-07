@@ -52,6 +52,10 @@ More regular exercises I started in year 2012 when I began following C# programm
 [Link to Expo deployment](https://expo.dev/@asseniliev/my-app)<br />
 [Link to GitHub](https://github.com/asseniliev/Farme-De-Meyrenal-Frontend)
 
+- <b>Beers Overflow</b> : A work in progress
+A prototyping development of a basic MVC project in C#, following the lections provided by [Telerik Akademy C# Alpha training](https://www.telerikacademy.com/alpha/csharp)<br />
+[Link to GitHub](https://github.com/asseniliev/BeersOverflow)
+
 - <b>MyMoviz</b> : a one-page application developped in duration of 5 days as part of the fullstack web development bootcamp in La Capsule (Lyon, 2023). <br />It displays list of the last movie titles,  allows to add films to list of favorites and evaluate films.<br />
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
