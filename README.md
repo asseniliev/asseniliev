@@ -41,18 +41,33 @@ More regular exercises I started in year 2012 when I began following C# programm
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 <br />
 
-## List of my works (in process of completion)
+## I am currently working on:
+- [Beers Overflow](https://github.com/asseniliev/BeersOverflow)<br />
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)<br />
+
+- [La Ferme de Meyrenal](https://github.com/asseniliev/Farme-De-Meyrenal-Frontend)<br />
+  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+- [Dungeon Escape](https://github.com/asseniliev/Unity-Dungeons-Escape)<br />
+  ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+## List of my works
 - <b>Game Point</b> : a web application developped in ASP.NET Core MVC. It is designated to manage basic gamers (both individuals and teams) profiles, organize gaming competitions and events and maintain performance statistics.<br />
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)<br />
 [Youtube demo video](https://www.youtube.com/watch?v=2IZ7qJQUDf0&t=6s)<br />
 [Link to GitHub](https://github.com/asseniliev/GamePoint)
 
-- <b>La Ferme de Meyrenal</b> : a mobile app developped by a team of two people as a final project of the La Capsule bootcamp study in March 2023. It is a personalized market place app created to present and distribute the products produced by a bio farme in Ardeche region (France).<br />
+- <b>La Ferme de Meyrenal</b> : A work in progress!
+A mobile app developped by a team of two people as a final project of the La Capsule bootcamp study in March 2023. It is a personalized market place app created to present and distribute the products produced by a bio farme in Ardeche region (France).<br />
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br />
 [Link to Expo deployment](https://expo.dev/@asseniliev/my-app)<br />
 [Link to GitHub](https://github.com/asseniliev/Farme-De-Meyrenal-Frontend)
 
-- <b>Beers Overflow</b> : A work in progress
+- <b>Beers Overflow</b> : A work in progress!
 A prototyping development of a basic MVC project in C#, following the lections provided by [Telerik Akademy C# Alpha training](https://www.telerikacademy.com/alpha/csharp)<br />
 [Link to GitHub](https://github.com/asseniliev/BeersOverflow)<br />
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
