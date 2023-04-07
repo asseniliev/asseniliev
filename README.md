@@ -54,7 +54,9 @@ More regular exercises I started in year 2012 when I began following C# programm
 
 - <b>Beers Overflow</b> : A work in progress
 A prototyping development of a basic MVC project in C#, following the lections provided by [Telerik Akademy C# Alpha training](https://www.telerikacademy.com/alpha/csharp)<br />
-[Link to GitHub](https://github.com/asseniliev/BeersOverflow)
+[Link to GitHub](https://github.com/asseniliev/BeersOverflow)<br />
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)<br />
 
 - <b>MyMoviz</b> : a one-page application developped in duration of 5 days as part of the fullstack web development bootcamp in La Capsule (Lyon, 2023). <br />It displays list of the last movie titles,  allows to add films to list of favorites and evaluate films.<br />
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
