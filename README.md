@@ -65,6 +65,7 @@ A mobile app developped by a team of two people as a final project of the La Cap
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br />
 [Link to Expo deployment](https://expo.dev/@asseniliev/my-app)<br />
+[Youtube demo video](https://www.youtube.com/watch?v=W7ID1MvbDzM)
 [Link to GitHub](https://github.com/asseniliev/Farme-De-Meyrenal-Frontend)
 
 - <b>Beers Overflow</b> : A work in progress!
